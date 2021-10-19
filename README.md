@@ -1,5 +1,7 @@
 # .github
-Default files for repositories.
+Default community health files for repositories.
+
+[Healthy contributions](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#creating-a-repository-for-default-files)
 
 GitHub will use and display default files for any public repository that does not have its own file of that type in any of the following places:
 
